@@ -1,5 +1,5 @@
 ### Simple console command line util for using Livolo switches with Onion Omega2 
-
+![omega2 with RF transmitter](https://raw.githubusercontent.com/aIeXoid/Omega2-Livolo/master/images/Omega2-Livolo.jpg)
 Ported from [LamPI-3.x](https://github.com/platenspeler/LamPI-3.x/tree/master/transmitters/livolo)
 
 ## Prerequisites
